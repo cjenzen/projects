@@ -1,7 +1,7 @@
 {
     "deb-pynn": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/PyNN"
+        "url" : "https://github.com/costrau/PyNN"
     },
     "vmodule": {
         "type": "git",
@@ -9,11 +9,11 @@
     },
     "logger" : {
 	"type": "git",
-	"url" : "https://github.com/electronicvisions/logger"
+	"url" : "https://github.com/costrau/logger"
     },
     "spikeyhal": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/spikeyhal"
+        "url" : "https://github.com/costrau/spikeyhal"
     },
     "libnux": {
         "type": "git",
